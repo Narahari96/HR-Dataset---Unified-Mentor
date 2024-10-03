@@ -57,3 +57,5 @@ Gain insights into employee trends, hiring practices, and workforce distribution
 Download Tableau or open Tableau Public.
 Clone this repository to your local machine.
 Open the .twbx file in Tableau to explore the visualizations.
+
+Tableau Public Project Link: https://public.tableau.com/app/profile/narahari.naik1750/viz/HR_Data_Project_17278813251490/Dashboard5?publish=yes
